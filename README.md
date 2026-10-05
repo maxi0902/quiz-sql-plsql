@@ -1,6 +1,6 @@
 # Quiz SQL y PL/SQL
 
-Quiz de alternativas para repasar **Base de Datos 1** (modelo relacional y SQL) y **PL/SQL en Oracle** (cursores, RECORD y VARRAY, excepciones, funciones, procedimientos, packages y triggers), usando el caso **Renta House**.
+Quiz de alternativas para repasar **Base de Datos 1** (modelo relacional y SQL) y **PL/SQL en Oracle** (cursores, RECORD y VARRAY, excepciones, funciones, procedimientos, packages y triggers). Las preguntas son de conocimiento general: no necesitas conocer ningún caso en particular.
 
 ## Cómo se usa
 
