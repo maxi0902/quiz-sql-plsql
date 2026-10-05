@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: quiz-sql-plsql
+    runtime: static
+    buildCommand: echo "Sitio estático, no necesita build"
+    staticPublishPath: .
